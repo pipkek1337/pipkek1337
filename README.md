@@ -1,9 +1,20 @@
-- 👋 Hi, I’m @pipkek1337
-- 👀 I’m interested in a bunch of things, here are some: C, Python, Networks, Security, Operating systems, OOP, Game development, and a bunch of other things (some are not computer-related, suprise) 
-- 📫 How to reach me: danielrozenking@gmail.com
-- ⚡ Fun fact: Had a rabbit once
+## 👋 Welcome to my GitHub!
 
-<!---
-pipkek1337/pipkek1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# About Me
+
+I’m pipkek (aka Daniel), a tech enthusiast with a deep passion for exploring and building across various domains of computer science. Whether it’s delving into low-level programming, network security, or experimenting with game development, I thrive on learning and tackling new challenges.
+
+# Interests
+
+	•	Programming Languages: Proficient in C, Python, and always eager to pick up more.
+	•	Core Topics: Networks, Security, Operating Systems, Object-Oriented Programming (OOP).
+	•	Creative Tech: Game Development and other unique personal projects.
+    • I have non-tech hobbies too (ask me about them—it might surprise you!).
+
+How to Reach Me
+
+📫 Email: danielrozenking@gmail.com
+
+Fun Fact
+
+I once had a rabbit. 🐇 (It might’ve inspired my relentless curiosity and speed in learning.)
