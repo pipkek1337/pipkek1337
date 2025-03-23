@@ -18,4 +18,4 @@ Happy to be here
 
 ### Fun Fact
 
-I once had a rabbit. 🐇 (It might’ve inspired my relentless curiosity and speed in learning.)
+I once had a rabbit 🐇
