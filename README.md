@@ -8,8 +8,8 @@ Happy to be here
 
 ## Interests
 
-	•	Programming Languages: Proficient in C, Python, and always eager to pick up more.
-	•	Core Topics: Networks, Security, Operating Systems, Object-Oriented Programming (OOP).
+	•	Programming Languages: Proficient in C, Python, C#, Assembly and always eager to pick up more.
+	•	Core Topics: Networks, Security, Operating Systems, Research & Development.
 	•	Creative Tech: Game Development and other unique personal projects.
     •	I have non-tech hobbies too (odd).
 ### How to Reach Me
