@@ -2,8 +2,8 @@
 
 ## About Me
 
-I’m Daniel (aka pipkek)
-I love learning new stuff
+I’m Daniel (aka pipkek) \n
+I love learning new stuff \n
 Happy to be here
 
 ## Interests
