@@ -1,16 +1,13 @@
 # Hello!
 
-## About Me
-
 I’m Daniel (aka pipkek),
 love learning new stuff.
 Happy to be here
 
-## Interests
+## About
 
-	•	Programming Languages: Proficient in C, Python, C#, Go, Assembly and always eager to pick up more.
-	•	Core Topics: Networks, Security, Operating Systems, Research & Development.
-	•	Creative Tech: Game Development and other unique personal projects.
+	•	Programming Languages: Experienced in C, Python, C#, Go, Assembly and always eager to pick up more.
+	•	Core Topics: Networks, Security, Operating Systems, Fullstack dev.
     •	I have non-tech hobbies too (odd).
 ### How to Reach Me
 
@@ -18,4 +15,5 @@ Happy to be here
 
 ### Fun Fact
 
-I once had a rabbit 🐇
+I once had a rabbit 🐇 (not coderabbit)
+
